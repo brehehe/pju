@@ -1283,7 +1283,8 @@ select:focus {
 }
 .main-menu .navigation li a {
     position: relative;
-    color: #083061;
+    /*color: #083061;*/
+    color: #f5f5f5;
     display: block;
     font-size: 16px;
     font-weight: 600;
