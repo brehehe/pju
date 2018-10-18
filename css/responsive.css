@@ -2055,7 +2055,7 @@
     position: absolute;
     top: 0;
     left: 75px;
-    margin: 27px 0 28px;
+    margin: 5px 0 28px;
     margin-right: 0;
     z-index: 10;
 } 
@@ -2064,7 +2064,7 @@
     top: 0;
     right: 0;
     height: 80px;
-    width: 150px;
+    width: 80px;
     z-index: 10;
 }
 .cart-toggler-option .cart-button a {

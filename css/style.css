@@ -520,7 +520,7 @@ li {
     left: 0;
     width: 100%;
     z-index: 9999999999;
-    background: #f5f5f5;
+    background: #115070;
     margin: 0;
     animation-name: menu_sticky;
     animation-duration: 0.60s;
@@ -1031,6 +1031,7 @@ select:focus {
     display: inline-block;
     transition: all 500ms ease;
     margin: 40px 0 39px;
+    width: 150px;.mainmenu-area
 }
 .logo a{
     display: inline-block;
@@ -1262,7 +1263,7 @@ select:focus {
 	Mainmenu Area style
 =====================================================
 ***/
-.mainmenu-area{}
+.mainmenu-area{background: #115070;}
 .main-menu {
     position: relative;
 }
