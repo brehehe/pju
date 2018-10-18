@@ -1,11 +1,11 @@
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('http://steelthemes.com/demo/html/FixZone/fonts/icomoon.eot?vdw2jk');
-  src:  url('http://steelthemes.com/demo/html/FixZone/fonts/icomoon.eot?vdw2jk') format('embedded-opentype'),
-    url('http://steelthemes.com/demo/html/FixZone/fonts/icomoon.ttf?vdw2jk') format('truetype'),
-    url('http://steelthemes.com/demo/html/FixZone/fonts/icomoon.woff?vdw2jk') format('woff'),
-    url('http://steelthemes.com/demo/html/FixZone/fonts/icomoon.svg?vdw2jk') format('svg');
+  src:  url('../fonts/icomoon.eot?vdw2jk');
+  src:  url('../fonts/icomoon.eot?vdw2jk') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?vdw2jk') format('truetype'),
+    url('../fonts/icomoon.woff?vdw2jk') format('woff'),
+    url('../fonts/icomoon.svg?vdw2jk') format('svg');
   font-weight: normal;
   font-style: normal;
 }
