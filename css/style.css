@@ -4762,7 +4762,7 @@ select:focus {
     right: -190px;
     height: 764px;
     width: 589px;
-    background: url(../images/pattern/specialities-image-box2-bg.jpg);
+    /*background: url(../images/pattern/specialities-image-box2-bg.jpg);*/
     background-repeat: no-repeat;
     content: "";
     z-index: -1;
